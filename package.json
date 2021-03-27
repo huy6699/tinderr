@@ -1,0 +1,11 @@
+{
+  "name": "duchuy",
+  "version": "1.0.0",
+  "description": "tinder notejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "note index.js"
+  },
+  "author": "Duc Huy",
+  "license": "ISC"
+}
